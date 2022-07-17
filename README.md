@@ -11,18 +11,6 @@
 
 Only the copper Grappling Hook can air hook
 
-**Default crafting recipes**
-(you can customize any of these in the recipes.yml file)
-
-![](https://i.imgur.com/o4PkGkq.png)
-![](https://i.imgur.com/9hrNktW.png)
-![](https://i.imgur.com/8jGocOG.png)
-![](https://i.imgur.com/SYY4gbH.png)
-![](https://i.imgur.com/YtyyU58.png)
-![](https://i.imgur.com/3GCpsq5.png)
-
-
-
 
 **For Mods Only!**
 
