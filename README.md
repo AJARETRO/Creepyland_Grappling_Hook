@@ -21,6 +21,11 @@ Only the copper Grappling Hook can air hook
 ![](https://i.imgur.com/YtyyU58.png)
 ![](https://i.imgur.com/3GCpsq5.png)
 
+
+
+
+**For Mods Only!**
+
 **Features:**
  - No commands necessary.
  - Pull yourself to locations.
