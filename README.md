@@ -1,5 +1,5 @@
 # Creepyland_Grappling_Hook
-**A Standalone Grappling Hook Plugin!**
+**AJA_RETRO**
 
 ![](https://media2.giphy.com/media/31n147ZrLHOdeKW3Gk/giphy.gif?cid=790b761129f43319551ffaed9a5e97bfb1af65ce2d7defe2&rid=giphy.gif&ct=g)
 
@@ -8,6 +8,8 @@
 ![](https://media1.giphy.com/media/rZjGCONqMobo4jhbmr/giphy.gif?cid=790b761104c38b6b3c5dd398cec5d075590bffe1ffe6c336&rid=giphy.gif&ct=g)
 
 ![](https://media4.giphy.com/media/ltDO03o1wak7NbQqjM/giphy.gif?cid=790b7611f461771b74cc299d84ac7e010eb7450495608c17&rid=giphy.gif&ct=g)
+
+Only the copper Grappling Hook can air hook
 
 **Default crafting recipes**
 (you can customize any of these in the recipes.yml file)
